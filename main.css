@@ -1,0 +1,83 @@
+.jumbotron{
+    text-align: center;
+    background: none;
+}
+.sectionlighter{
+    background-color: #eceeef;
+    padding: 2rem;
+}
+.imgLight1{
+    max-width: 85%;
+}
+.imgLight2{
+    max-width: 63%;
+    display: block;
+    margin: auto;
+    max-height: 90%;
+}
+.sectionDark{
+    background-color: #cccccc;
+    padding: 2rem;
+}
+.coolstuffWrapper{
+margin-top: 17px;
+}
+.coolstuffBtn{
+background-color: red;
+color: #ffffff;
+display: block;
+margin: auto;
+}
+h5.modal-title{
+    margin: auto;
+}
+img.imgModal{
+    margin: auto;
+    display: block;
+}
+.modalFormWrapper{
+    padding: 2rem;
+}
+.imgCenter1{
+    display: block;
+    margin: auto;
+    max-width: 55%;
+    max-height: 55%;
+    margin-top: 11px;
+}
+.imgCenter2{
+    display: block;
+    margin: auto;
+    max-width: 75%;
+    margin-top: 11px;
+}
+.imgCenter3{
+    display: block;
+    margin: auto;
+    max-width: 75%;
+    margin-top: 11px;
+}
+.btnCenter{
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 35%;
+}
+.footerimg{
+    max-width: 30%;
+    padding: 7px;
+    border-radius: 50%;
+}
+.fa-facebook-square{
+    color: #3b5998;
+}
+.fa-google-plus-square{
+    color: #c32f10;
+}
+.fa-instagram {
+    color: #ffffff;
+}
+.social-wrapper{
+    margin: auto;
+}
